@@ -11,29 +11,29 @@ Input will consist of two parts. The first part is the dictionary, the second pa
 Output
 Output will consist of a series of lines. Each line will consist of the original phrase, a space, an equal sign (=), another space, and the list of words that together make up an anagram of the original phrase, separated by exactly one space. These words must appear in alphabetic sequence. 
 
-Sample input
-ABC
-AND
-DEF
-DXZ
-K
-KX
-LJSRT
-LT
-PT
-PTYYWQ
-Y
-YWJSRQ
-ZD
-ZZXY
-# 
-ZZXY ABC DEF
-SXZYTWQP KLJ YRTD
-ZZXY YWJSRQ PTYYWQ ZZXY
-#
+    Sample input
+    ABC
+    AND
+    DEF
+    DXZ
+    K
+    KX
+    LJSRT
+    LT
+    PT
+    PTYYWQ
+    Y
+    YWJSRQ
+    ZD
+    ZZXY
+    # 
+    ZZXY ABC DEF
+    SXZYTWQP KLJ YRTD
+    ZZXY YWJSRQ PTYYWQ ZZXY
+    #
 
-Sample output
-SXZYTWQP KLJ YRTD = DXZ K LJSRT PTYYWQ
-SXZYTWQP KLJ YRTD = DXZ K LT PT Y YWJSRQ
-SXZYTWQP KLJ YRTD = KX LJSRT PTYYWQ ZD
-SXZYTWQP KLJ YRTD = KX LT PT Y YWJSRQ ZD
+    Sample output
+    SXZYTWQP KLJ YRTD = DXZ K LJSRT PTYYWQ
+    SXZYTWQP KLJ YRTD = DXZ K LT PT Y YWJSRQ
+    SXZYTWQP KLJ YRTD = KX LJSRT PTYYWQ ZD
+    SXZYTWQP KLJ YRTD = KX LT PT Y YWJSRQ ZD
