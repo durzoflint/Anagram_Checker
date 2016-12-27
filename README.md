@@ -1,7 +1,8 @@
 # Anagram_Checker
 Code for Anagram Checker
 
-It is often fun to see if rearranging the letters of a name gives an amusing anagram. For example, the letters of `WILLIAM SHAKESPEARE' rearrange to form `SPEAK REALISM AWHILE'. 
+It is often fun to see if rearranging the letters of a name gives an amusing anagram. For example, the letters of 'WILLIAM SHAKESPEARE'
+rearrange to form 'SPEAK REALISM AWHILE'.
 
 Write a program that will read in a dictionary and a list of phrases and determine which words from the dictionary, if any, form anagrams of the given phrases. Your program must find all sets of words in the dictionary which can be formed from the letters in each phrase. Do not include the set consisting of the original words. If no anagram is present, do not write anything, not even a blank line. 
 
